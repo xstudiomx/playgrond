@@ -6,6 +6,8 @@
 //  Copyright © 2016 Xstudio. All rights reserved.
 //
 
+//esto es un comentario
+
 import UIKit
 
 class ViewController: UIViewController {
